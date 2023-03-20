@@ -11,9 +11,8 @@ public class Ex02_02 {
 		int result;
 		
 		Scanner s = new Scanner(System.in);
-		 System.out.print("1값 입력:");
+		
 		 a= s.nextInt();
-		 System.out.print("2값 입력:");
 		 b= s.nextInt();
 		 
 		 result=a+b;
